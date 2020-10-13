@@ -210,6 +210,15 @@ body {
         height: auto;
         padding-bottom: 45px;
     }
+
+    .Gallery {
+        height: auto;
+        padding-bottom: 45px;
+    }
+
+    .information {
+        display: flex;
+    }
 }
 
 
@@ -219,7 +228,14 @@ body {
         padding-bottom: 45px;
     }
 
-    
+    .Gallery {
+        height: auto;
+        padding-bottom: 45px;
+    }
+
+    .information {
+        display: flex;
+    }
 }
 
 
