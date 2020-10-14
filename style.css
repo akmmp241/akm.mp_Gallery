@@ -246,6 +246,20 @@ body {
         margin: auto;
     }
 
+    .component-info .sm {
+        margin-top: 20px;
+        margin-left: -50px;
+    }
+
+    .component-info ul {
+        margin-top: 10px;
+        margin-right: -50px;
+    }
+
+    .component-info ul li {
+       display: inline-block;
+    }
+
 }
 
 
@@ -274,6 +288,7 @@ body {
 
     .component-info h2 {
         opacity: 0;
+
     }
 
     .component-info p {
