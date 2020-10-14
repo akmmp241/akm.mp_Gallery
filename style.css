@@ -273,9 +273,7 @@ body {
     }
 
     .component-info h2 {
-        margin: auto;
         opacity: 0;
-
     }
 
     .component-info p {
