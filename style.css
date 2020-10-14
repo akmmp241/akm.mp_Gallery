@@ -274,9 +274,12 @@ body {
 
     .component-info h2 {
         margin: auto;
+        opacity: 0;
+
     }
 
     .component-info p {
+        margin-top: -25px;
         font-size: 18px;
         padding: 5px;
         margin: auto;
