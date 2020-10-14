@@ -234,6 +234,18 @@ body {
         padding-bottom: 45px;
     }
 
+    .footer {
+        height: auto;
+    }
+
+    .footer .information  {
+        display: grid;
+    }
+
+    .info .component-info {
+        margin: auto;
+    }
+
 }
 
 
@@ -252,8 +264,36 @@ body {
         height: auto;
     }
 
-    .footer .information {
+    .footer .information  {
         display: grid;
+    }
+
+    .info .component-info {
+        margin: auto;
+    }
+
+    .component-info h2 {
+        margin: auto;
+    }
+
+    .component-info p {
+        font-size: 18px;
+        padding: 5px;
+        margin: auto;
+    }
+
+    .component-info .sm {
+        margin-top: 20px;
+        margin-left: -50px;
+    }
+
+    .component-info ul {
+        margin-top: 10px;
+        margin-right: -50px;
+    }
+
+    .component-info ul li {
+       display: inline-block;
     }
 }
 
